@@ -1,0 +1,30 @@
+vg-next-video {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  display: block;
+  position: absolute;
+  z-index: 2; }
+  vg-next-video .loader-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex; }
+    vg-next-video .loader-container svg.round-progress {
+      margin: auto; }
+  vg-next-video .cancel {
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    bottom: 50px;
+    text-align: center;
+    cursor: pointer; }
+
+/*# sourceMappingURL=vg-next-video.css.map */

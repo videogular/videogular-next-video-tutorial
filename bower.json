@@ -1,0 +1,17 @@
+{
+  "name": "videogular-next-video-tutorial",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "~1.4.2",
+    "angular-sanitize": "~1.4.2",
+    "angular-svg-round-progressbar": "~0.2.10",
+    "videogular": "1.2.4",
+    "videogular-themes-default": "1.2.4",
+    "videogular-controls": "1.2.4",
+    "videogular-overlay-play": "1.2.4"
+  },
+  "resolutions": {
+    "angular-sanitize": "~1.4.2",
+    "angular": "1.4.2"
+  }
+}
