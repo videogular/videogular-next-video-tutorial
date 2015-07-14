@@ -8,7 +8,7 @@
     "videogular": "1.2.4",
     "videogular-themes-default": "1.2.4",
     "videogular-controls": "1.2.4",
-    "videogular-overlay-play": "1.2.4"
+    "videogular-poster": "1.2.4"
   },
   "resolutions": {
     "angular-sanitize": "~1.4.2",
